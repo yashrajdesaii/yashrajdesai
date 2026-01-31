@@ -161,24 +161,6 @@ Machine Learning • Data Analytics • Product Strategy • Business Operations
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -208,17 +190,8 @@ I'm always interested in collaborating on projects involving **data analytics**,
 </div>
 
 ---
-
 <div align="center">
 
-### 💭 Quote I Live By
-
-*"Data is the new oil, but insights are the refined fuel that drives action."*
+**Thanks for stopping by! Feel free to reach out where growth, curiosity, and potential are part of the equation. I would love to chat if you're building something:)**
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6366F1&style=flat-square&label=Profile+Views" alt="Profile views"/>
-
-**⭐ From [Yashraj Desai](https://github.com/YOUR_GITHUB_USERNAME)**
-
-</div>

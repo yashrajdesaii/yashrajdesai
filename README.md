@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Yashraj Rajesh Desai
+# 👋 Yashraj Desai
 
 ### Data Science × Finance × Analytics
 

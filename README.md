@@ -20,30 +20,22 @@
 
 I'm passionate about turning raw data into actionable insights, building automated workflows, and creating AI-powered solutions. Currently working as an **AI Research Fellow at Handshake** and **Microsoft Excel Student Ambassador**, while pursuing dual degree in BS in Finance and BS in Data Science at the University of Arizona.
 
-```python
-class Yashraj:
-    def __init__(self):
-        self.location = "Tucson, Arizona 🌵"
-        self.education = {
-            "university": "University of Arizona - Eller College of Management",
-            "degrees": ["BS Finance", "BS Data Science & Statistics"],
-            "gpa": "3.71/4.0",
-            "graduation": "May 2026"
-        }
-        self.currently = [
-            "AI Research Data Science Fellow @ Handshake",
-            "Microsoft Excel Student Ambassador",
-            "Student Business Analyst @ UITS"
-        ]
-        self.interests = ["Machine Learning", "Data Analytics", "Product Strategy", 
-                         "Business Operations", "LLM Evaluation"]
-    
-    def say_hi(self):
-        print("Let's build something amazing with data!")
+🎓 Education
+University of Arizona - Eller College of Management | Expected May 2026
 
-me = Yashraj()
-me.say_hi()
-```
+BS in Finance | BS in Data Science & Statistics
+GPA: 3.71/4.0 | Major GPA: 3.78/4.0
+7x Dean's List Honoree (Top 5% of class)
+
+💡 What I'm Working On
+
+🤖 Developing LLM evaluation frameworks at Handshake
+📊 Leading Excel workshops and driving student engagement for Microsoft
+📈 Analyzing 200K+ support tickets to optimize IT operations at University of Arizona
+🎯 Building data pipelines and automation solutions
+
+🌟 Interests
+Machine Learning • Data Analytics • Product Strategy • Business Operations • LLM Evaluation • Financial Modeling
 
 ---
 

@@ -18,7 +18,7 @@
 
 > **Dual-degree student** combining Finance and Data Science to drive impact at the intersection of analytics, AI, and business strategy.
 
-I'm passionate about turning raw data into actionable insights, building automated workflows, and creating AI-powered solutions. Currently working as an **AI Research Fellow at Handshake** and **Microsoft Excel Student Ambassador**, while pursuing a BS in Finance and Data Science at the University of Arizona.
+I'm passionate about turning raw data into actionable insights, building automated workflows, and creating AI-powered solutions. Currently working as an **AI Research Fellow at Handshake** and **Microsoft Excel Student Ambassador**, while pursuing dual degree in BS in Finance and BS in Data Science at the University of Arizona.
 
 ```python
 class Yashraj:

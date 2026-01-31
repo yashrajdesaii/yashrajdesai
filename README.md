@@ -29,10 +29,10 @@ GPA: 3.71/4.0 | Major GPA: 3.78/4.0
 
 💡 What I'm Working On
 
-🤖 Developing LLM evaluation frameworks at Handshake
-📊 Leading Excel workshops and driving student engagement for Microsoft
-📈 Analyzing 200K+ support tickets to optimize IT operations at University of Arizona
-🎯 Building data pipelines and automation solutions
+- 🤖 Developing LLM evaluation frameworks at Handshake
+- 📊 Leading Excel workshops and driving student engagement for Microsoft
+- 📈 Analyzing 200K+ support tickets to optimize IT operations at University of Arizona
+- 🎯 Building data pipelines and automation solutions
 
 🌟 Interests
 Machine Learning • Data Analytics • Product Strategy • Business Operations • LLM Evaluation • Financial Modeling
